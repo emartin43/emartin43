@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/evelynmartin00](www.linkedin.com/in/evelynmartin00)
 
-- ⚡ Fun fact **I like to rock climb, listen to music, and read Jon Krakauer books!**
+- ⚡ Fun fact **I like to rock climb, go on excursions to the middle of nowhere, and read Jon Krakauer books!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
