@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/evelynmartin00](www.linkedin.com/in/evelynmartin00)
 
-- ⚡ Fun fact **I like to rock climb, travel to underrated places, and read Jon Krakauer books!**
+- ⚡ Fun fact **I like to rock climb, traveling, and read Jon Krakauer books!**
 
 
 Note: I started a Github very recently, so I'm currently in the process of moving over my projects into repos. 
