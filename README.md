@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I like to rock climb, travel, and read Jon Krakauer books!**
 
 
-Note: I started a Github very recently, so I'm currently in the process of moving over my projects into repos. 
+Note: I'm currently in the process of pushing my previous projects to Github 
 
 
 <h3 align="left">Connect with me:</h3>
