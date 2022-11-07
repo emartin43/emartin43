@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evelyn</h1>
 <h3 align="center">a data enthusiast and aspiring data scientist</h3>
 
-- 🔭 I’m currently working on developing my portfolio! 
+- 🔭 I’m currently working on **developing my portfolio!**
 
 - 🌱 I’m currently learning **Python**
 
