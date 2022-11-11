@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **evelyn.martin4343@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/evelynmartin00](www.linkedin.com/in/evelynmartin00)
+- 📄 Know about my experiences: [www.linkedin.com/in/evelynmartin00](www.linkedin.com/in/evelynmartin00)
 
 - ⚡ Fun fact: **I like to rock climb, travel, and read Jon Krakauer books!**
 
