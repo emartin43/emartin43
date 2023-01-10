@@ -18,8 +18,6 @@
 - ⚡ Fun fact: **I like to rock climb, travel, and read Jon Krakauer books!**
 
 
-Note: I'm currently in the process of pushing my previous projects to GitHub 
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
