@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **developing my data science portfolio!**
 
-- 🌱 I’m currently learning **Python and machine learning theory**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **projects using data for social good**
 
-- 📝My projects are available at [https://medium.com/@evelyn.martin](https://medium.com/@evelyn.martin)
+- 📝My portfolio is available at [https://medium.com/@evelyn.martin](https://medium.com/@evelyn.martin)
 
 - 💬 Ask me about **the Fourth Industrial Revolution**
 
