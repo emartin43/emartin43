@@ -7,15 +7,13 @@
 
 - 👯 I’m looking to collaborate on **projects using data for social good**
 
-- 📝My portfolio is available at [https://medium.com/@evelyn.martin](https://medium.com/@evelyn.martin)
-
 - 💬 Ask me about **the Fourth Industrial Revolution**
 
-- 📫 How to reach me **evelyn.martin4343@gmail.com**
+- 📫 How to reach me **martinde4343@gmail.com**
 
 - 📄 Know about my experiences: [www.linkedin.com/in/evelynmartin00](www.linkedin.com/in/evelynmartin00)
 
-- ⚡ Fun fact: **I like to rock climb, travel, and read Jon Krakauer books!**
+- ⚡ Fun facts: **I like to rock climb, travel, and read Jon Krakauer books.**
 
 
 
