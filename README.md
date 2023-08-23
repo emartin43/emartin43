@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **the Fourth Industrial Revolution**
 
-- 📫 How to reach me **martinde4343@gmail.com**
+- 📫 How to reach me **evelynmartin4343@gmail.com**
 
 - 📄 Know about my experiences: [www.linkedin.com/in/evelynmartin00](www.linkedin.com/in/evelynmartin00)
 
