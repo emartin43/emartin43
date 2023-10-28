@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences: [www.linkedin.com/in/evelynmartin00](www.linkedin.com/in/evelynmartin00)
 
-- ⚡ Fun facts: **I like to rock climb, travel, and read Jon Krakauer books.**
+- ⚡ Fun facts: **I like to rock climb, travel, and read nonfiction books.**
 
 
 
