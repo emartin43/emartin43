@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Evelyn</h1>
 <h3 align="center">a data enthusiast and aspiring data scientist</h3>
 
-- 🔭 I’m currently working on **developing my data science portfolio!**
+- 🔭 I’m currently working on **finding a full-time opportunity using data!**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **how to host my personal website using GitHub**
 
 - 👯 I’m looking to collaborate on **projects using data for social good**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences: [www.linkedin.com/in/evelynmartin00](www.linkedin.com/in/evelynmartin00)
 
-- ⚡ Fun facts: **I like to rock climb, travel, and read nonfiction books.**
+- ⚡ Fun facts: **I like to boulder, travel, and read nonfiction books.**
 
 
 
